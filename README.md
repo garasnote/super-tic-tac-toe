@@ -1,4 +1,4 @@
-# Tres
+# Super-Tic-Tac-Toe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
 
@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Reasons
+
+I saw a Youtube Short by V-Sauce about Super Tic-Tac-Toe, and I wanted to program the game, It has proven to be hard only to make the regular Tic-Tac-Toe, I can't imagine how much effort it will require. I started this project like a year ago, so today I uploaded it to GitHub.
