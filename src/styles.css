@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-color: antiquewhite;
+  color: black;
+}
+
+#content{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
